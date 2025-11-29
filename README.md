@@ -1,5 +1,6 @@
 # 💫 About Me:
-Étudiant en cybersécurité (Epitech), spécialisé en Blue Team & Malware Analysis.  <br>Je développe un lab personnel Windows/Linux pour analyser des malwares, construire des règles  <br>de détection (YARA/Sigma) et reproduire des scénarios SOC. Mon GitHub rassemble mes projets,  <br>mes rapports, mes labs et ma progression TryHackMe.<br>
+Cybersecurity student (Epitech), focusing on Blue Team operations and malware analysis.     <br> I’m building a personal Windows/Linux lab to analyze malware, create detection rules (YARA/Sigma), and reproduce real SOC scenarios.
+This GitHub centralizes my projects, reports, labs, and my learning progress on TryHackMe.<br>
 
 
 ## 🌐 Socials:
