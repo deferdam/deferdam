@@ -1,7 +1,7 @@
 # 💫 About Me:
 Cybersecurity student (Epitech), focusing on Blue Team operations and malware analysis.     <br> I’m building a personal Windows/Linux lab to analyze malware, create detection rules (YARA/Sigma), and reproduce real SOC scenarios.<br>
 This GitHub centralizes my projects, reports, labs, and my learning progress on TryHackMe.<br> 
-Devs that use Ai will replace the ones that don't<br>
+Devs that use Ai will replace the ones that don't.<br>
 But Ai will never replace the ones who can think.<br>
 
 
