@@ -1,7 +1,9 @@
 # 💫 About Me:
 Junior SOC / Blue Team analyst in training with hands-on experience in log analysis, alert triage, and malware behavior analysis.<br> 
 I operate a personal Windows/Linux lab to investigate malware, develop detection rules (YARA, Sigma), and reproduce real-world SOC scenarios.<br> 
-My GitHub showcases security projects, incident analysis reports, detection tooling, and TryHackMe SOC exercises.<br> 
+**Cybersecurity Portfolio:** https://deferdam.github.io/Cyber-Portfolio/  
+My GitHub documents security projects, incident response write-ups, detection tooling, and TryHackMe SOC exercises.
+
 
 Devs that use Ai will replace the ones that don't.<br>
 But Ai will never replace the ones who can think.<br>
